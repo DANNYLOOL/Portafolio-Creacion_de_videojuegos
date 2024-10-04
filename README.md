@@ -69,4 +69,4 @@
 Daniel Rangel Paredón
 
 ## Copyright
-Derechos Reservados 2024
+Derechos Reservados ©2024
