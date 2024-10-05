@@ -45,7 +45,8 @@
   * > Desafío
   * > Prueba
 * VideoJuego
-  * > Repositorio del Videojuego
+  * > [Repositorio del Videojuego](https://github.com/DANNYLOOL/The_Revenge-Game2D)
+
 
 ## Planificación
 
