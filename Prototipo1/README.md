@@ -1,6 +1,6 @@
 # Evidencia
 <p align="center">
-    Esta actividad se realizo sin evidencia.
+    Esta actividad se realizó sin evidencia.
 </p>
 
 ## Autor
