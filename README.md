@@ -29,12 +29,12 @@
 
 ## Código Fuente
 
-* Lección 1 (Prototipo1)
+* Lección 1 (Prototipo 1)
   * > [Unitypackage](https://github.com/DANNYLOOL/Portafolio-Creacion_de_videojuegos/blob/main/Prototipo1/Prototipo1.unitypackage)
-* Lección 2 (Prototipo2)
+* Lección 2 (Prototipo 2)
   * > [Unitypackage](https://github.com/DANNYLOOL/Portafolio-Creacion_de_videojuegos/blob/main/Prototipo2/Prototipo2.unitypackage)
   * > [Evidencia](https://github.com/DANNYLOOL/Portafolio-Creacion_de_videojuegos/blob/main/Prototipo2/Evidencia_Prototipo2.pdf)
-* Lección 3 (Tutorial de Animacion 2D)
+* Lección 3 (Animations 2D Parte 1)
   * > [Unitypackage](https://github.com/DANNYLOOL/Portafolio-Creacion_de_videojuegos/blob/main/Animations_2D_Parte1/Animations_2D_Parte1.unitypackage)
   * > [Evidencia](https://github.com/DANNYLOOL/Portafolio-Creacion_de_videojuegos/blob/main/Animations_2D_Parte1/Evidencia_Animations_2D_Parte1.pdf)
 * VideoJuego
