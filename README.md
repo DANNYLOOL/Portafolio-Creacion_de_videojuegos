@@ -35,8 +35,8 @@
   * > [Unitypackage](https://github.com/DANNYLOOL/Portafolio-Creacion_de_videojuegos/blob/main/Prototipo2/Prototipo2.unitypackage)
   * > [Evidencia](https://github.com/DANNYLOOL/Portafolio-Creacion_de_videojuegos/blob/main/Prototipo2/Evidencia_Prototipo2.pdf)
 * Lección 3 (Tutorial de Animacion 2D)
-  * > [Unitypackage]()
-  * > [Evidencia]()
+  * > [Unitypackage](https://github.com/DANNYLOOL/Portafolio-Creacion_de_videojuegos/blob/main/Animations_2D_Parte1/Animations_2D_Parte1.unitypackage)
+  * > [Evidencia](https://github.com/DANNYLOOL/Portafolio-Creacion_de_videojuegos/blob/main/Animations_2D_Parte1/Evidencia_Animations_2D_Parte1.pdf)
 * VideoJuego
   * > [Repositorio del Videojuego](https://github.com/DANNYLOOL/The_Revenge-Game2D)
 
