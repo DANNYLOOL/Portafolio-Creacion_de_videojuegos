@@ -1,7 +1,6 @@
 # Creación de Videojuegos
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
-
+    <img src="https://github.com/user-attachments/assets/998d46e2-c1af-4dfb-af69-338ebf455b12" alt="Logo" width=1200 height=300>
   <p align="center">
     Este repositorio es un portafolio de evidencias de la materia de Creación de Videojuegos.
   </p>
@@ -19,7 +18,7 @@
 
 ## Introducción
 
-- The Revenge
+- Titulo: The Revenge
 - Objetivo.
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
 - Historia
