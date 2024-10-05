@@ -1,8 +1,8 @@
 # Creación de Videojuegos
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/998d46e2-c1af-4dfb-af69-338ebf455b12" alt="Logo" width=1200 height=300>
+    <img src="https://github.com/user-attachments/assets/998d46e2-c1af-4dfb-af69-338ebf455b12" alt="Logo">
   <p align="center">
-    Este repositorio es un portafolio de evidencias de la materia de Creación de Videojuegos.
+    Este repositorio es un portafolio de evidencias, que pertenece al alumno: Daniel Rangel Paredón, de la materia de Creación de Videojuegos.
   </p>
 </p>
 
@@ -44,17 +44,8 @@
   * > Laboratorio
   * > Desafío
   * > Prueba
-* Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
 * VideoJuego
+  * > Repositorio del Videojuego
 
 ## Planificación
 
