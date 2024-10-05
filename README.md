@@ -19,7 +19,7 @@
 
 ## Introducción
 
-- Nombre del proyecto
+- The Revenge
 - Objetivo.
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
 - Historia
@@ -59,7 +59,8 @@
 
 ## Planificación
 
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
+![Captura de pantalla 2024-09-20 220924](https://github.com/user-attachments/assets/8c6991de-5407-4f88-bb6d-f8523514bb99)
+
 
 ## Autor
 Daniel Rangel Paredón
