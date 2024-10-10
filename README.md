@@ -40,18 +40,33 @@ En el videojuego 2D "The Revenge", el jugador controla a Azor, un misterioso cam
 - **Personajes Jugables**
     - **Azor**
         - Un campesino misterioso, cuyo rostro nunca se ve debido a su capucha. Sus ojos brillan con un resplandor inquietante. Su principal habilidad es el manejo de la espada, con la que corta y destruye a los esqueletos.
+<p align="center">
+    ![idle_0](https://github.com/user-attachments/assets/9b42dd12-5e19-4cff-ae39-5b91fd7c277c)
+</p>
 
 - **Enemigos**
     - **Esqueletos**
         - Enemigos básicos que atacan con diferentes armas (espadas, arcos, escudos, lanzas y magia).
+<p align="center">
+    ![idle_0](https://github.com/user-attachments/assets/549374dd-3ada-44e8-b593-3da570d2d95c)
+</p>
     - **Murciélagos**
         - Enemigos básicos que atacan cuerpo a cuerpo desde los aires.
+<p align="center">
+    ![fly_0](https://github.com/user-attachments/assets/1c13083f-11af-425e-981a-b1201e351e5e)
+</p>
     - **Comandante Esqueleto**
         - El jefe final del tercer nivel. Es grande, poderoso, y tiene un hacha imponente que puede causar gran daño.
+<p align="center">
+    ![idle_00](https://github.com/user-attachments/assets/f974f903-4873-4cce-9320-905cd7e81939)
+</p>
 
 - **Personajes no jugables**
     - **Comerciante**
         - Un misterioso comerciante que aparece en momentos clave y vende armas, pociones de curación, y otros objetos. Proporciona equipo esencial para la supervivencia del protagonista.
+<p align="center">
+    ![idle_00](https://github.com/user-attachments/assets/1ef94dab-18bc-42f6-be0a-0b094371b139)
+</p>
 
 ### Escenario
 - **Terreno por nivel**
@@ -77,13 +92,15 @@ En el videojuego 2D "The Revenge", el jugador controla a Azor, un misterioso cam
 ### Historia
 El juego está ambientado en una era medieval fantástica donde la magia y los seres oscuros dominan. El protagonista, conocido como Azor, ha vivido en paz hasta que los esqueletos, liderados por su comandante, invaden el bosque. Estos seres fueron despertados por una antigua maldición, y ahora buscan destruir toda vida. La trama gira en torno a la búsqueda de venganza por la muerte de Daisy, un adorable slime que fue cruelmente asesinado por los invasores. A medida que el protagonista avanza en su misión, descubre que la maldición que trajo a los esqueletos de vuelta es mucho más profunda de lo que imaginaba, y su destino está entrelazado con el de ellos.
 
-### Personajes
-
 ### Reglas de Juego
+- **Combate:** Usar la espada para atacar a los esqueletos y otros enemigos.
+- **Vida:** El jugador tiene una barra de vida que se reduce con cada golpe de los enemigos o trampas.
+- **Curación:** El jugador puede usar pociones de curación adquiridas con un NPC.
+- **Monedas:** Las monedas recolectadas pueden ser usadas para comprar objetos.
+- **Llaves:** Las llaves permiten abrir cofres con recompensas.
 
 ### Pantallas de Juego
 
-### Plan de creación de VideoJuego
 
 ## Código Fuente
 
