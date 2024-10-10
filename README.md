@@ -21,13 +21,6 @@
 ### Titulo
 The Revenge.
 
-
-
-
-
-
-
-
 ### Objetivo
 En el videojuego 2D "The Revenge", el jugador controla a Azor, un misterioso campesino que busca venganza contra el ejército de esqueletos que asesinó a su mascota Daisy. A lo largo de tres niveles, Azor debe atravesar un bosque, catacumbas y la fortaleza del Comandante Esqueleto, enfrentando hordas de enemigos, trampas mortales y obstáculos mientras recolecta monedas, usa llaves y combate con su espada. El objetivo final es derrotar al Comandante Esqueleto y liberar al bosque de la maldición que lo acecha, combinando acción, aventura y plataformas en un mundo medieval oscuro.
 
@@ -47,33 +40,27 @@ En el videojuego 2D "The Revenge", el jugador controla a Azor, un misterioso cam
 - **Personajes Jugables**
     - **Azor**
         - Un campesino misterioso, cuyo rostro nunca se ve debido a su capucha. Sus ojos brillan con un resplandor inquietante. Su principal habilidad es el manejo de la espada, con la que corta y destruye a los esqueletos.
-
-
-
-
-
-
-
+<br>
         <img src="https://github.com/user-attachments/assets/9b42dd12-5e19-4cff-ae39-5b91fd7c277c" alt="Azor">
 
 - **Enemigos**
     - **Esqueletos**
         - Enemigos básicos que atacan con diferentes armas (espadas, arcos, escudos, lanzas y magia).
-
+<br>
         <img src="https://github.com/user-attachments/assets/549374dd-3ada-44e8-b593-3da570d2d95c" alt="Esqueleto">
     
     - **Murciélagos**
         - Enemigos básicos que atacan cuerpo a cuerpo desde los aires.
-
+<br>
         <img src="https://github.com/user-attachments/assets/1c13083f-11af-425e-981a-b1201e351e5e" alt="Murciélago">
     - **Comandante Esqueleto**
         - El jefe final del tercer nivel. Es grande, poderoso, y tiene un hacha imponente que puede causar gran daño.
-
+<br>
         <img src="https://github.com/user-attachments/assets/f974f903-4873-4cce-9320-905cd7e81939" alt="Comandante Esqueleto">
 - **Personajes no jugables**
     - **Comerciante**
         - Un misterioso comerciante que aparece en momentos clave y vende armas, pociones de curación, y otros objetos. Proporciona equipo esencial para la supervivencia del protagonista.
-
+<br>
         <img src="https://github.com/user-attachments/assets/23c59422-c51e-4482-a746-094d287c5b3e" alt="Comerciante">
 
 ### Escenario
