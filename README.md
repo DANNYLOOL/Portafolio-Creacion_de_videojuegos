@@ -18,14 +18,72 @@
 
 ## Introducción
 
-- **Titulo:** The Revenge
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia: El juego está ambientado en una era medieval fantástica donde la magia y los seres oscuros dominan. El protagonista, conocido como Azor, ha vivido en paz hasta que los esqueletos, liderados por su comandante, invaden el bosque. Estos seres fueron despertados por una antigua maldición, y ahora buscan destruir toda vida. La trama gira en torno a la búsqueda de venganza por la muerte de Daisy, un adorable slime que fue cruelmente asesinado por los invasores. A medida que el protagonista avanza en su misión, descubre que la maldición que trajo a los esqueletos de vuelta es mucho más profunda de lo que imaginaba, y su destino está entrelazado con el de ellos.
-- Personajes
-- Reglas de Juego.
-- Pantallas de Juego
-- Plan de creación de VideoJuego.
+### Titulo
+The Revenge.
+
+### Objetivo
+En el videojuego 2D "The Revenge", el jugador controla a Azor, un misterioso campesino que busca venganza contra el ejército de esqueletos que asesinó a su mascota Daisy. A lo largo de tres niveles, Azor debe atravesar un bosque, catacumbas y la fortaleza del Comandante Esqueleto, enfrentando hordas de enemigos, trampas mortales y obstáculos mientras recolecta monedas, usa llaves y combate con su espada. El objetivo final es derrotar al Comandante Esqueleto y liberar al bosque de la maldición que lo acecha, combinando acción, aventura y plataformas en un mundo medieval oscuro.
+
+### Plataforma
+- Dispositivos Móviles
+- PC
+
+### Género
+- Acción.
+- Aventura.
+- Plataformas.
+
+### Clasificación
+- **T** (El contenido por lo general es apto para personas de 13 años o más. Puede que contenga violencia, temas insinuantes, humor grosero, mínima cantidad de sangre, apuestas simuladas o uso poco frecuente de lenguaje fuerte.)
+
+### Personajes
+- **Personajes Jugables**
+    - **Azor**
+        - Un campesino misterioso, cuyo rostro nunca se ve debido a su capucha. Sus ojos brillan con un resplandor inquietante. Su principal habilidad es el manejo de la espada, con la que corta y destruye a los esqueletos.
+
+- **Enemigos**
+    - **Esqueletos**
+        - Enemigos básicos que atacan con diferentes armas (espadas, arcos, escudos, lanzas y magia).
+    - **Murciélagos**
+        - Enemigos básicos que atacan cuerpo a cuerpo desde los aires.
+    - **Comandante Esqueleto**
+        - El jefe final del tercer nivel. Es grande, poderoso, y tiene un hacha imponente que puede causar gran daño.
+
+- **Personajes no jugables**
+    - **Comerciante**
+        - Un misterioso comerciante que aparece en momentos clave y vende armas, pociones de curación, y otros objetos. Proporciona equipo esencial para la supervivencia del protagonista.
+
+### Escenario
+- **Terreno por nivel**
+    - **Nivel 1:** Un bosque con terreno de tierra y pasto. El protagonista atraviesa áreas boscosas cerca de su cabaña, con obstáculos simples como saltos de plataformas.
+    - **Nivel 2:** Un cementerio antiguo lleno de lápidas, con terreno rocoso y pequeñas colinas. Los obstáculos incluyen terreno inestable y montículos de tierra.
+    - **Nivel 3:** Las catacumbas subterráneas, con terreno de piedra y corredores oscuros. El terreno es más peligroso, con áreas que requieren precisión para saltar.
+
+- **Decoraciones por nivel**
+    - **Nivel 1:** Árboles altos, matorrales, una cabaña en el fondo, pequeñas flores, y leña apilada cerca de la casa.
+    - **Nivel 2:** Lápidas, cruces de piedra, estatuas deterioradas, enredaderas, y niebla ligera que cubre parte del escenario.
+    - **Nivel 3:** Paredes de piedra desgastada, antorchas apagadas y encendidas, telarañas, y escaleras que llevan a secciones más profundas.
+
+- **Objetos**
+    - Barriles de madera.
+    - Cofres cerrados con llave (que contienen monedas o ítems).
+    - Antorchas colocadas en las paredes.
+    - Fogatas pequeñas dispersas.
+    - Cajas rompibles.
+    - Máquinas que lanzan flechas que el personaje debe esquivar.
+    - Llaves para abrir cofres y puertas.
+    - Nidos de arañas de los que emergen enemigos.
+
+### Historia
+El juego está ambientado en una era medieval fantástica donde la magia y los seres oscuros dominan. El protagonista, conocido como Azor, ha vivido en paz hasta que los esqueletos, liderados por su comandante, invaden el bosque. Estos seres fueron despertados por una antigua maldición, y ahora buscan destruir toda vida. La trama gira en torno a la búsqueda de venganza por la muerte de Daisy, un adorable slime que fue cruelmente asesinado por los invasores. A medida que el protagonista avanza en su misión, descubre que la maldición que trajo a los esqueletos de vuelta es mucho más profunda de lo que imaginaba, y su destino está entrelazado con el de ellos.
+
+### Personajes
+
+### Reglas de Juego
+
+### Pantallas de Juego
+
+### Plan de creación de VideoJuego
 
 ## Código Fuente
 
