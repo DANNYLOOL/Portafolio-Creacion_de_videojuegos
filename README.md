@@ -46,17 +46,17 @@ En el videojuego 2D "The Revenge", el jugador controla a Azor, un misterioso cam
 - **Enemigos**
     - **Esqueletos**
         - Enemigos básicos que atacan con diferentes armas (espadas, arcos, escudos, lanzas y magia).
-<br>
+
         <img src="https://github.com/user-attachments/assets/549374dd-3ada-44e8-b593-3da570d2d95c" alt="Esqueleto">
     
     - **Murciélagos**
         - Enemigos básicos que atacan cuerpo a cuerpo desde los aires.
-<br>
+
         <img src="https://github.com/user-attachments/assets/1c13083f-11af-425e-981a-b1201e351e5e" alt="Murciélago">
 
     - **Comandante Esqueleto**
         - El jefe final del tercer nivel. Es grande, poderoso, y tiene un hacha imponente que puede causar gran daño.
-<br>
+
         <img src="https://github.com/user-attachments/assets/f974f903-4873-4cce-9320-905cd7e81939" alt="Comandante Esqueleto">
 
 - **Personajes no jugables**
