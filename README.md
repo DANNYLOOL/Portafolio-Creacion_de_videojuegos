@@ -40,25 +40,25 @@ En el videojuego 2D "The Revenge", el jugador controla a Azor, un misterioso cam
 - **Personajes Jugables**
     - **Azor**
         - Un campesino misterioso, cuyo rostro nunca se ve debido a su capucha. Sus ojos brillan con un resplandor inquietante. Su principal habilidad es el manejo de la espada, con la que corta y destruye a los esqueletos.
-      <p align="center"><img src="https://github.com/user-attachments/assets/9b42dd12-5e19-4cff-ae39-5b91fd7c277c" alt="Azor"></p>
+      <p align="center"><img src="https://github.com/user-attachments/assets/9b42dd12-5e19-4cff-ae39-5b91fd7c277c" alt="Azor" width="200" height="auto"></p>
 
 - **Enemigos**
     - **Esqueletos**
         - Enemigos básicos que atacan con diferentes armas (espadas, arcos, escudos, lanzas y magia).
-        <p align="center"><img src="https://github.com/user-attachments/assets/549374dd-3ada-44e8-b593-3da570d2d95c" alt="Esqueleto"></p>
+        <p align="center"><img src="https://github.com/user-attachments/assets/549374dd-3ada-44e8-b593-3da570d2d95c" alt="Esqueleto" width="160" height="auto"></p>
     
     - **Murciélagos**
         - Enemigos básicos que atacan cuerpo a cuerpo desde los aires.
-        <p align="center"><img src="https://github.com/user-attachments/assets/1c13083f-11af-425e-981a-b1201e351e5e" alt="Murciélago"></p>
+        <p align="center"><img src="https://github.com/user-attachments/assets/1c13083f-11af-425e-981a-b1201e351e5e" alt="Murciélago" width="240" height="auto"></p>
 
     - **Comandante Esqueleto**
         - El jefe final del tercer nivel. Es grande, poderoso, y tiene un hacha imponente que puede causar gran daño.
-        <p align="center"><img src="https://github.com/user-attachments/assets/f974f903-4873-4cce-9320-905cd7e81939" alt="Comandante Esqueleto"></p>
+        <p align="center"><img src="https://github.com/user-attachments/assets/f974f903-4873-4cce-9320-905cd7e81939" alt="Comandante Esqueleto" width="300" height="auto"></p>
 
 - **Personajes no jugables**
     - **Comerciante**
         - Un misterioso comerciante que aparece en momentos clave y vende armas, pociones de curación, y otros objetos. Proporciona equipo esencial para la supervivencia del protagonista.
-        <p align="center"><img src="https://github.com/user-attachments/assets/23c59422-c51e-4482-a746-094d287c5b3e" alt="Comerciante"></p>
+        <p align="center"><img src="https://github.com/user-attachments/assets/23c59422-c51e-4482-a746-094d287c5b3e" alt="Comerciante" width="200" height="auto"></p>
 
 ### Escenario
 - **Terreno por nivel**
