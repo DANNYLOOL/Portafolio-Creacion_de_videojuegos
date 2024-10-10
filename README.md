@@ -21,6 +21,13 @@
 ### Titulo
 The Revenge.
 
+
+
+
+
+
+
+
 ### Objetivo
 En el videojuego 2D "The Revenge", el jugador controla a Azor, un misterioso campesino que busca venganza contra el ejército de esqueletos que asesinó a su mascota Daisy. A lo largo de tres niveles, Azor debe atravesar un bosque, catacumbas y la fortaleza del Comandante Esqueleto, enfrentando hordas de enemigos, trampas mortales y obstáculos mientras recolecta monedas, usa llaves y combate con su espada. El objetivo final es derrotar al Comandante Esqueleto y liberar al bosque de la maldición que lo acecha, combinando acción, aventura y plataformas en un mundo medieval oscuro.
 
@@ -40,6 +47,12 @@ En el videojuego 2D "The Revenge", el jugador controla a Azor, un misterioso cam
 - **Personajes Jugables**
     - **Azor**
         - Un campesino misterioso, cuyo rostro nunca se ve debido a su capucha. Sus ojos brillan con un resplandor inquietante. Su principal habilidad es el manejo de la espada, con la que corta y destruye a los esqueletos.
+
+
+
+
+
+
 
         <img src="https://github.com/user-attachments/assets/9b42dd12-5e19-4cff-ae39-5b91fd7c277c" alt="Azor">
 
