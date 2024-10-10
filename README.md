@@ -21,7 +21,7 @@
 - Titulo: The Revenge
 - Objetivo.
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
+- Historia: El juego está ambientado en una era medieval fantástica donde la magia y los seres oscuros dominan. El protagonista, conocido como Azor, ha vivido en paz hasta que los esqueletos, liderados por su comandante, invaden el bosque. Estos seres fueron despertados por una antigua maldición, y ahora buscan destruir toda vida. La trama gira en torno a la búsqueda de venganza por la muerte de Daisy, un adorable slime que fue cruelmente asesinado por los invasores. A medida que el protagonista avanza en su misión, descubre que la maldición que trajo a los esqueletos de vuelta es mucho más profunda de lo que imaginaba, y su destino está entrelazado con el de ellos.
 - Personajes
 - Reglas de Juego.
 - Pantallas de Juego
