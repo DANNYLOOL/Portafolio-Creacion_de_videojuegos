@@ -104,6 +104,9 @@ El juego está ambientado en una era medieval fantástica donde la magia y los s
 * Lección 3 (Animations 2D Parte 1)
   * > [Unitypackage](https://github.com/DANNYLOOL/Portafolio-Creacion_de_videojuegos/blob/main/Animations_2D_Parte1/Animations_2D_Parte1.unitypackage)
   * > [Evidencia](https://github.com/DANNYLOOL/Portafolio-Creacion_de_videojuegos/blob/main/Animations_2D_Parte1/Evidencia_Animations_2D_Parte1.pdf)
+* Lección 4 (Challenge 2)
+  * > [Unitypackage](https://github.com/DANNYLOOL/Portafolio-Creacion_de_videojuegos/blob/main/Challenge2/Challenge_2.unitypackage)
+  * > [Evidencia](https://github.com/DANNYLOOL/Portafolio-Creacion_de_videojuegos/blob/main/Challenge2/Challenge_2.pdf)
 * VideoJuego
   * > [Repositorio del Videojuego](https://github.com/DANNYLOOL/The_Revenge-Game2D)
 
